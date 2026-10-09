@@ -1,0 +1,33 @@
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node.js / Next.js
+node_modules/
+.next/
+out/
+coverage/
+npm-debug.log*
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Local investigation and scratch scripts
+/scratch/

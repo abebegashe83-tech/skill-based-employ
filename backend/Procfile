@@ -1,0 +1,1 @@
+web: DJANGO_SETTINGS_MODULE=core.settings.production gunicorn core.wsgi:application --log-file - --access-logfile - --workers 1 --threads 2 --bind 0.0.0.0:$PORT
