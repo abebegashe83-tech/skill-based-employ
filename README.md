@@ -468,3 +468,12 @@ When an employer accepts a candidate, `filled_positions` is incremented automati
 
 **Event-driven notifications**
 Every transition in the application lifecycle — submission, shortlisting, interview scheduling, acceptance, and rejection — triggers a notification to the relevant party in real time.
+
+
+
+
+
+
+
+
+https://skill-based-employ.vercel.app
